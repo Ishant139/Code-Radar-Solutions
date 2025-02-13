@@ -2,6 +2,8 @@
 int main() {
     char a,b,c;
     scanf("%c %c %c",&a,&b,&c);
-    printf("Name: %c Age: %c Hobby: %c",a,b,c);
+    printf("Name: %c/n",a);
+    printf("Age: %c\n",b);
+    printf("Hobby: %c",c);
     return 0;
 }
