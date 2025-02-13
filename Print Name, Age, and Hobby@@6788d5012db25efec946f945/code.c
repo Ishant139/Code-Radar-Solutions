@@ -1,9 +1,9 @@
 #include <stdio.h>
 int main() {
-    char a,b,c;
-    scanf("%c %c %c",&a,&b,&c);
-    printf("Name: %c/n",a);
-    printf("Age: %c\n",b);
-    printf("Hobby: %c",c);
+    char str[100] a,b,c;
+    scanf("%s %s %s",&a,&b,&c);
+    printf("Name: %s\n",a);
+    printf("Age: %s\n",b);
+    printf("Hobby: %s",c);
     return 0;
 }
