@@ -1,0 +1,8 @@
+#include <stdio.h>
+int main(){
+    int a;
+    scanf("%d",&a);
+    if(a>1 &&  ){printf("");}
+    else printf("Out of Range");
+    return 0;
+}
