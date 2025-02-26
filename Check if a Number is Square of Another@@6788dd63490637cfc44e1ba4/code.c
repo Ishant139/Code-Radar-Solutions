@@ -3,8 +3,7 @@ int main(){
     int a,n;
     scanf("%d %d",&a,&n);
     if(a/n==n){
-        printf("Yes");
-    }
-    else{ printf("No");}
+        printf("Yes");}
+    else: printf("No");
     return 0;}
     
