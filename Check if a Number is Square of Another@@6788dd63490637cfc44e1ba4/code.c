@@ -5,6 +5,6 @@ int main(){
     if(a/n==n){
         printf("Yes");
     }
-    else printf("No");
+    else{ printf("No");}
     return 0;}
     
