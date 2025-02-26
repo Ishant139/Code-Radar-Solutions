@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(){
-    int a,n;
-    scanf("%d %d",&a,&n);
+    float a,n;
+    scanf("%f %f",&a,&n);
     if(a/n==n){
         printf("Yes");}
     else printf("No");
