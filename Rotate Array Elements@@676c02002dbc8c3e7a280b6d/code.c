@@ -17,4 +17,5 @@ int n,r;
         
     }
     return 0;
-}
+  } 
+ 
