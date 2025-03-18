@@ -14,6 +14,7 @@ int n,r;
         for(int i=0;i<n-r;i++){
             printf("%d\n",arr[i]);
         }
-        return 0;
+        
     }
+    return 0;
 }
