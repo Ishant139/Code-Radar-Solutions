@@ -2,7 +2,7 @@
 int main(){
     int r;
     scanf("%d",&r);
-    if(int i=1){
+    if(int i==1){
         for(int j=1;j<=n;j++){
             printf("*");
         }
@@ -13,7 +13,7 @@ int main(){
         }
         printf("\n");
     }
-    if(int i=n){
+    if(int i == n){
         for(int j=1;j<=n;j++){
             printf("*");
         }
