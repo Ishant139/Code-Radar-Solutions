@@ -11,7 +11,7 @@ int main() {
             if (i == 1 || i == r || j == 1 || j == r) {
                 printf("* ");
             } else {
-                printf(" ");
+                printf("  ");
             }
         }
         printf("\n");
